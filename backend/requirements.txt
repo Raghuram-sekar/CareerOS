@@ -1,0 +1,14 @@
+fbeautifulsoup4
+httpx
+duckduckgo-search
+fastapi
+uvicorn
+chromadb
+pymupdf
+spacy
+sentence-transformers
+python-multipart
+requests
+langgraph
+langchain
+langchain-ollama
