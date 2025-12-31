@@ -2,7 +2,6 @@
 
 **CareerOS** is an autonomous AI agent designed to help job seekers analyze their profile, find matching opportunities, and bridge skill gaps with personalized learning roadmaps. Built for the **AI-Verse Hackathon**.
 
-![CareerOS Dashboard](https://via.placeholder.com/1200x600?text=CareerOS+Dashboard+Preview)
 
 ## ✨ Key Features
 
